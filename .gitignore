@@ -4,3 +4,15 @@ another.ipynb
 crear.csv
 /archive
 archive.zip
+data/
+/.venv/
+*.pth
+*.pt
+plan.md
+prompt.md
+test.py
+report_erros.md
+main.py
+improve_notebook.py
+apply_plan_changes.py
+update_notebook.py
