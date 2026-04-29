@@ -53,6 +53,11 @@ Pipeline de clasificación binaria (Perro / Gato) que incluye:
 | **ImprovedCNN** (desde cero) | 81% | 0.82 | 0.81 | 0.81 |
 | **ResNet18** (Transfer Learning) | **93%** | **0.93** | **0.93** | **0.93** |
 
+**Matriz de Confusión-Perros vs Gatos**
+![imagen de matriz de confusion perros vs gatos](images/matriz_confusion_perros_vs_gatos.png)
+
+
+
 > **Conclusión:** Transfer Learning supera en **+12 puntos porcentuales** a la CNN personalizada entrenando los mismos datos y épocas, demostrando el poder del conocimiento previo de ImageNet.
 
 ---
